@@ -2,6 +2,14 @@
 
 matéria de tópicos especiais em automação ii (2) ufes do período 2024 / 2 - Feito por Arthur Lorencini Bergamaschi - 2016101335
 
+## Intenção
+
+A intenção é criar um repositório em que os alunos possam acessar e entender melhor o conteúdo da matéria. Acredito que o google classroom é uma péssima ferramenta para isso, principalmente quando o assunto envolve código.
+
+## Créditos 
+
+Todo material das aulas pertence ao Professor Patrick Marques Ciarelli. Apenas as anotações e alguns códigos são meus. O compartilhamento é feio na base da boa fé.
+
 ## Bibliografia
 
 * WOOLDRIDGE, Jeffrey M. Introductory econometrics: a modern approach. 4th ed. United States of America: South-Western Cengage Learning, 2009.
