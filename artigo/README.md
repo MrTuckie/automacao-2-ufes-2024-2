@@ -20,3 +20,8 @@ basta baixar os .csv utilizando um wget da vida para os links do repositório.
 wget -Lo https://github.com/MrTuckie/automacao-2-ufes-2024-2/raw/refs/heads/main/artigo/dataset/ufv/wheater_station.csv
 # ou algo do tipo
 ```
+
+## outros artigos
+
+kaggle - [solar power generation](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data)
+kaggle - [horizontal photovoltaic power output data](https://www.kaggle.com/datasets/saurabhshahane/northern-hemisphere-horizontal-photovoltaic)
