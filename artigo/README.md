@@ -1,6 +1,9 @@
-# o código
+# o projeto
 
 o código consistem em ter seus .ipynb e .py para fazer o trabalho.
+
+link do [artigo](https://www.overleaf.com/read/bhcdnrhwgsqy#e0a0ae)
+
 
 ## o básico
 
