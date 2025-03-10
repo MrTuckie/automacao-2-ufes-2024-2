@@ -4,6 +4,7 @@ x = 1:100;
 data = cos(2*pi*0.05*x+2*pi*rand) + 0.5*randn(1,100);   % signal
 for k = 1:8
     data(19+k:20:79+k) = NaN;                           % missing values
+    % start:step:end
 end
 data(10:20:90) = [-50 40 30 -45 35];                    % outliers
 plot(x,data)
